@@ -6,6 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 Programming Languages & Frameworks
+
 <p align="left">
     <!-- C# -->
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
@@ -21,6 +22,7 @@ Programming Languages & Frameworks
     </a>
 </p>
 Tools & IDEs
+
 <p align="left">
     <!-- Visual Studio 2022 -->
     <a href="https://visualstudio.microsoft.com/">
@@ -32,6 +34,7 @@ Tools & IDEs
     </a>
 </p>
 GitHub Profile Views
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=nikshepmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
