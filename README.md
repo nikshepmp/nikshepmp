@@ -1,3 +1,17 @@
+## 📊 GitHub Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nikshepmp&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🚀 GitHub Profile Views
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nikshepmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ### Programming Languages & Frameworks
 <p align="left">
     <!-- C# -->
