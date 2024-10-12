@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Programming Languages & Frameworks
+## Technology Used
 
 <p align="left">
     <!-- C# -->
@@ -22,9 +22,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
 </p>
-
-## Tools & IDEs
-
 <p align="left">
     <!-- Visual Studio 2022 -->
     <a href="https://visualstudio.microsoft.com/">
