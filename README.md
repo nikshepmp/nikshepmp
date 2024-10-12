@@ -1,16 +1,9 @@
-## 📊 GitHub Stats
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nikshepmp&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🚀 GitHub Profile Views
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nikshepmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 ### Programming Languages & Frameworks
 <p align="left">
@@ -27,7 +20,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
 </p>
-
 ### Tools & IDEs
 <p align="left">
     <!-- Visual Studio 2022 -->
@@ -39,5 +31,8 @@
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
     </a>
 </p>
-
+## GitHub Profile Views
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nikshepmp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
