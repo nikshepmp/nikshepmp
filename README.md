@@ -1,5 +1,3 @@
-## 🛠️ Technologies & Tools
-
 ### Programming Languages & Frameworks
 <p align="left">
     <!-- C# -->
