@@ -21,7 +21,6 @@
     <a href="https://www.java.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
-</p>
 <p align="left">
     <!-- Visual Studio 2022 -->
     <a href="https://visualstudio.microsoft.com/">
