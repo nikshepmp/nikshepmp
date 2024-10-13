@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Technology Used
+## Tool
 
 <p align="left">
     <!-- C# -->
