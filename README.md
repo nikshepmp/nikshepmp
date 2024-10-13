@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikshepmp&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-## Tool
+## Tech Stacks
 
 <p align="left">
     <!-- C# -->
@@ -21,7 +21,6 @@
     <a href="https://www.java.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     </a>
-<p align="left">
     <!-- Visual Studio 2022 -->
     <a href="https://visualstudio.microsoft.com/">
         <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="Visual Studio 2022" width="40" height="40"/>
