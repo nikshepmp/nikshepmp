@@ -1,4 +1,4 @@
-## Tech Stacks
+### Tech & Tools
 
 <p align="left">
     <!-- C# -->
